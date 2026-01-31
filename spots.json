@@ -1,0 +1,5 @@
+[
+  {"name": "Ericeira Skatepark", "lat": 38.9712, "lng": -9.4128, "type": "skatepark"},
+  {"name": "Lisbon Downhill Run", "lat": 38.7436, "lng": -9.1925, "type": "downhill", "grade": "12.5%"},
+  {"name": "London Pump Track", "lat": 51.5074, "lng": -0.1278, "type": "track"}
+]
